@@ -1,11 +1,28 @@
+<!-- Typing SVG header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=привіт%2C+я+Demoused+👋;веб-розробник+з+України+🇺🇦;Python+%7C+Java+%7C+HTML%2FCSS;IT+—+це+стиль+мислення+💜" alt="Typing SVG" />
+</div>
+
+<br/>
+
+```
+██████╗ ███████╗███╗   ███╗ ██████╗ ██╗   ██╗███████╗███████╗██████╗ 
+██╔══██╗██╔════╝████╗ ████║██╔═══██╗██║   ██║██╔════╝██╔════╝██╔══██╗
+██║  ██║█████╗  ██╔████╔██║██║   ██║██║   ██║███████╗█████╗  ██║  ██║
+██║  ██║██╔══╝  ██║╚██╔╝██║██║   ██║██║   ██║╚════██║██╔══╝  ██║  ██║
+██████╔╝███████╗██║ ╚═╝ ██║╚██████╔╝╚██████╔╝███████║███████╗██████╔╝
+╚═════╝ ╚══════╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═════╝ 
+```
+
 <div align="center">
 
-# привіт, я Олександр 👋
-### aka **Demoused** — розробник з України
+[![Portfolio](https://img.shields.io/badge/🌐%20Портфоліо-Visit-8b5cf6?style=for-the-badge&labelColor=0d0a1e)](https://demousedx.github.io/AboutMe/)
+[![Telegram](https://img.shields.io/badge/Telegram-@Demoused-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Demoused)
+[![Discord](https://img.shields.io/badge/Discord-@Demoused-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Demoused)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Портфоліо-demoused.dev-8b5cf6?style=for-the-badge&labelColor=100d1e)](https://demousedx.github.io/AboutMe/)
-[![Age](https://img.shields.io/badge/вік-16-a855f7?style=for-the-badge&labelColor=100d1e)](https://github.com/DemousedX)
-[![Experience](https://img.shields.io/badge/досвід-4+_роки-7c3aed?style=for-the-badge&labelColor=100d1e)](https://github.com/DemousedX)
+![Profile Views](https://komarev.com/ghpvc/?username=DemousedX&color=8b5cf6&style=for-the-badge&label=ПЕРЕГЛЯДІВ)
+![Age](https://img.shields.io/badge/вік-16-a855f7?style=for-the-badge)
+![Years in IT](https://img.shields.io/badge/в_IT-4+_роки-7c3aed?style=for-the-badge)
 
 </div>
 
@@ -13,11 +30,25 @@
 
 ## 🧑‍💻 Про мене
 
-- 🇺🇦 Живу і кодую в Україні
-- 💡 Почав програмувати у **12 років** — і не зупинявся
-- 🌐 Будую **веб-сайти** та **додатки**
-- ☕ Люблю **Python** і **Java** для реальних задач
-- 🎯 Ціль — стати топовим розробником. IT — це не робота, це стиль мислення
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+
+```python
+class Demoused:
+    name     = "Олександр Денисенко"
+    alias    = "Demoused"
+    age      = 16
+    location = "Україна 🇺🇦"
+    started  = 2021  # перший Hello World
+
+    stack = ["Python", "Java", "HTML/CSS", "JS"]
+    goals = ["стати топовим розробником",
+             "відкриті проекти", "реальні продукти"]
+
+    def motto(self):
+        return "IT — це не робота, це стиль мислення 💜"
+```
+
+<br clear="right"/>
 
 ---
 
@@ -31,20 +62,23 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 Статистика
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DemousedX&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=100d1e&title_color=b07ef8&icon_color=8b5cf6&text_color=f0ecfa)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DemousedX&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0a1e&title_color=b07ef8&icon_color=8b5cf6&text_color=f0ecfa&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemousedX&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0a1e&title_color=b07ef8&text_color=f0ecfa"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DemousedX&layout=compact&theme=midnight-purple&hide_border=true&bg_color=100d1e&title_color=b07ef8&text_color=f0ecfa)
+<img src="https://streak-stats.demolab.com?user=DemousedX&theme=midnight-purple&hide_border=true&background=0d0a1e&ring=8b5cf6&fire=b07ef8&currStreakLabel=f0ecfa&sideLabels=f0ecfa&dates=9d7cbf"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DemousedX&theme=midnight-purple&hide_border=true&background=100d1e&ring=8b5cf6&fire=b07ef8&currStreakLabel=f0ecfa)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DemousedX&theme=react-dark&bg_color=0d0a1e&color=b07ef8&line=8b5cf6&point=f0ecfa&hide_border=true"/>
 
 </div>
 
@@ -52,23 +86,15 @@
 
 ## 🚀 Мій шлях
 
-```
-2021 — перший Hello World. Це змінило все.
-2022 — Python: скрипти, боти, автоматизація
-2023 — HTML/CSS: перші реальні сайти в мережі
-2024 — Java + GitHub: перші відкриті проекти
-2025 → розвиваюсь щодня. Далі — більше.
-```
-
----
-
-## 📬 Контакти
-
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Demoused-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Demoused)
-[![Discord](https://img.shields.io/badge/Discord-@Demoused-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Demoused)
-[![GitHub](https://img.shields.io/badge/GitHub-DemousedX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DemousedX)
+| Рік | Подія |
+|-----|-------|
+| 2021 | 🚀 Перший `Hello World` — це змінило все |
+| 2022 | 🐍 Python: скрипти, боти, автоматизація |
+| 2023 | 🌐 HTML/CSS: перші реальні сайти |
+| 2024 | ☕ Java + GitHub: відкриті проекти |
+| 2025 → | ⚡ Розвиваюсь щодня. Далі — більше |
 
 </div>
 
@@ -76,6 +102,10 @@
 
 <div align="center">
 
+### 🌐 Портфоліо → [demousedx.github.io](https://demousedx.github.io)
+
 *«IT — це не робота, це стиль мислення»*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=80&section=footer"/>
 
 </div>
