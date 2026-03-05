@@ -102,7 +102,7 @@ class Demoused:
 
 <div align="center">
 
-### 🌐 Портфоліо → [demousedx.github.io](https://demousedx.github.io)
+### 🌐 Портфоліо → [demousedx.github.io](https://https://demousedx.github.io/AboutMe/)
 
 *«IT — це не робота, це стиль мислення»*
 
