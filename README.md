@@ -1,6 +1,6 @@
 <!-- Typing SVG header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=привіт%2C+я+Demoused+👋;веб-розробник+з+України+🇺🇦;Python+%7C+Java+%7C+HTML%2FCSS;IT+—+це+стиль+мислення+💜" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=%D0%BF%D1%80%D0%B8%D0%B2%D1%96%D1%82%2C%20%D1%8F%20Demoused%20%F0%9F%91%8B;%D0%B2%D0%B5%D0%B1-%D1%80%D0%BE%D0%B7%D1%80%D0%BE%D0%B1%D0%BD%D0%B8%D0%BA%20%D0%B7%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8%20%F0%9F%87%BA%F0%9F%87%A6;Python%20%7C%20Java%20%7C%20HTML%2FCSS;IT%20%E2%80%94%20%D1%86%D0%B5%20%D1%81%D1%82%D0%B8%D0%BB%D1%8C%20%D0%BC%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F%20%F0%9F%92%9C" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -102,7 +102,7 @@ class Demoused:
 
 <div align="center">
 
-### 🌐 Портфоліо → [demousedx.github.io](https://https://demousedx.github.io/AboutMe/)
+### 🌐 Портфоліо → [demousedx.github.io/AboutMe/](https://demousedx.github.io/AboutMe/)
 
 *«IT — це не робота, це стиль мислення»*
 
