@@ -6,7 +6,7 @@
 
 <br><br>
 
-<a href="https://demoused.pp.ua"><img src="https://img.shields.io/badge/%E2%9C%A6_PORTFOLIO-demoused.pp.ua-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://demoused.pp.ua"><img src="https://img.shields.io/badge/PORTFOLIO-demoused.pp.ua-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://t.me/Demoused"><img src="https://img.shields.io/badge/TELEGRAM-@Demoused-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://www.linkedin.com/in/DenysenkoOleksandr"><img src="https://img.shields.io/badge/LINKEDIN-Oleksandr_Denysenko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:demoused@demoused.pp.ua"><img src="https://img.shields.io/badge/EMAIL-demoused@demoused.pp.ua-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -15,67 +15,69 @@
 
 ---
 
-## 🛰 Mission Control
+## Mission Control
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│  NAME       Oleksandr Denysenko                             │
-│  CALLSIGN   Demoused                                       │
-│  ROLE       Digital Project Manager                        │
-│             AI Solutions Consultant                        │
-│  COMPANY    webPCstudio                                    │
-│  LOCATION   Ukraine 🇺🇦                                    │
-│  FOCUS      Web Development · AI · Automation              │
-│             System Integrations · Digital Products         │
-╰──────────────────────────────────────────────────────────────╯
-```
+<div align="center">
 
-I manage and build digital projects where **web development, AI, automation and system integrations** come together.
+<table>
+<tr><td><strong>Identity</strong></td><td>Oleksandr Denysenko</td></tr>
+<tr><td><strong>Callsign</strong></td><td><code>Demoused</code></td></tr>
+<tr><td><strong>Role</strong></td><td>Digital Project Manager & AI Solutions Consultant</td></tr>
+<tr><td><strong>Company</strong></td><td><a href="https://webpcstudio.com">webPCstudio</a></td></tr>
+<tr><td><strong>Location</strong></td><td>Ukraine</td></tr>
+<tr><td><strong>Focus</strong></td><td>Web Development · AI Solutions · Automation · System Integrations</td></tr>
+</table>
 
-My work is focused on turning requirements into clear technical solutions: planning the delivery, coordinating implementation, integrating services and improving the final product.
+</div>
+
+I manage and build digital projects at the intersection of **web development, AI, automation and system integrations**. My work combines project planning, technical coordination and hands-on problem solving to turn requirements into stable, useful digital products.
 
 ---
 
-## 🌠 Core Domains
+## Core Domains
+
+<div align="center">
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
-
-### 🌐 Web
-
-Websites  
-E-commerce  
-Custom interfaces  
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://cdn.simpleicons.org/googlechrome/A78BFA" width="42" height="42" alt="Web icon">
+<h3>Web</h3>
+Modern websites<br>
+E-commerce<br>
+Custom interfaces<br>
 Technical improvements
-
+<br><br>
 </td>
-<td width="33%" valign="top" align="center">
-
-### 🤖 AI & Automation
-
-AI solutions  
-Workflow automation  
-API integrations  
-Smart internal tools
-
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://cdn.simpleicons.org/openai/A78BFA" width="42" height="42" alt="AI icon">
+<h3>AI & Automation</h3>
+AI solutions<br>
+Workflow automation<br>
+API integrations<br>
+Internal tools
+<br><br>
 </td>
-<td width="33%" valign="top" align="center">
-
-### 🧭 Delivery
-
-Project planning  
-System architecture  
-Clear communication  
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://cdn.simpleicons.org/linear/A78BFA" width="42" height="42" alt="Delivery icon">
+<h3>Delivery</h3>
+Project planning<br>
+Technical coordination<br>
+Clear communication<br>
 Product-focused execution
-
+<br><br>
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 🛸 Tech Constellation
+## Tech Constellation
 
 <div align="center">
 
@@ -89,7 +91,7 @@ Product-focused execution
 
 ---
 
-## 🤖 webPCstudio
+## webPCstudio
 
 <div align="center">
 
