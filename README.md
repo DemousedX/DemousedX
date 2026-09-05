@@ -81,11 +81,12 @@ Product-focused execution
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,git,github,vscode,idea&theme=dark" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=python,java,php,js,nodejs,html,css,mysql,git,github,vscode,idea&theme=dark" alt="Technology stack" />
+<img src="https://api.iconify.design/logos/telegram.svg" width="48" height="48" alt="Telegram" />
 
 <br><br>
 
-`Python` · `Java` · `PHP` · `JavaScript` · `HTML` · `CSS` · `Git` · `GitHub` · `IntelliJ IDEA` · `VS Code`
+`Python` · `Java` · `PHP` · `JavaScript` · `Node.js` · `HTML` · `CSS` · `MySQL` · `Telegram Bot API` · `Git` · `GitHub` · `IntelliJ IDEA` · `VS Code`
 
 </div>
 
