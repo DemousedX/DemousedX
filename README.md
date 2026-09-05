@@ -6,7 +6,7 @@
 
 <br><br>
 
-<a href="https://demoused.pp.ua"><img src="https://img.shields.io/badge/PORTFOLIO-demoused.pp.ua-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://demoused.pp.ua"><img src="https://img.shields.io/badge/SITE-demoused.pp.ua-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"></a>
 <a href="https://t.me/Demoused"><img src="https://img.shields.io/badge/TELEGRAM-@Demoused-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://www.linkedin.com/in/DenysenkoOleksandr"><img src="https://img.shields.io/badge/LINKEDIN-Oleksandr_Denysenko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:demoused@demoused.pp.ua"><img src="https://img.shields.io/badge/EMAIL-demoused@demoused.pp.ua-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
