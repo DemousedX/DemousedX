@@ -81,11 +81,11 @@ Product-focused execution
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode,idea&theme=dark" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,git,github,vscode,idea&theme=dark" alt="Technology stack" />
 
 <br><br>
 
-`Python` · `Java` · `JavaScript` · `HTML` · `CSS` · `Git` · `GitHub` · `IntelliJ IDEA` · `VS Code`
+`Python` · `Java` · `PHP` · `JavaScript` · `HTML` · `CSS` · `Git` · `GitHub` · `IntelliJ IDEA` · `VS Code`
 
 </div>
 
