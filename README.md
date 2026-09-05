@@ -19,46 +19,55 @@
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
-│  IDENTITY   Oleksandr Denysenko                             │
+│  NAME       Oleksandr Denysenko                             │
 │  CALLSIGN   Demoused                                       │
 │  ROLE       Digital Project Manager                        │
 │             AI Solutions Consultant                        │
 │  COMPANY    webPCstudio                                    │
-│  BASE       Ukraine 🇺🇦                                    │
-│  STATUS     Shipping ideas into real systems               │
+│  LOCATION   Ukraine 🇺🇦                                    │
+│  FOCUS      Web Development · AI · Automation              │
+│             System Integrations · Digital Products         │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
-I work where **web development, AI, automation and project delivery** meet.
+I manage and build digital projects where **web development, AI, automation and system integrations** come together.
 
-My approach is straightforward: structure the task, build the right system, integrate what matters and keep the result maintainable.
+My work is focused on turning requirements into clear technical solutions: planning the delivery, coordinating implementation, integrating services and improving the final product.
 
 ---
 
-## 🌌 Current Orbit
+## 🌠 Core Domains
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 🚀 What I build
+### 🌐 Web
 
-- Modern websites and web systems
-- AI-assisted solutions
-- Business automation
-- System integrations
-- Digital project workflows
+Websites  
+E-commerce  
+Custom interfaces  
+Technical improvements
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 🧭 How I work
+### 🤖 AI & Automation
 
-- Structured delivery
-- Clear communication
-- Practical architecture
-- Automation-first thinking
-- Focus on real business value
+AI solutions  
+Workflow automation  
+API integrations  
+Smart internal tools
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🧭 Delivery
+
+Project planning  
+System architecture  
+Clear communication  
+Product-focused execution
 
 </td>
 </tr>
@@ -93,35 +102,7 @@ My approach is straightforward: structure the task, build the right system, inte
 
 </div>
 
----
-
-## 📡 GitHub Signal
-
 <div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=DemousedX&show_icons=true&hide_border=true&bg_color=05010F&title_color=A78BFA&icon_color=8B5CF6&text_color=DDD6FE&ring_color=7C3AED" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemousedX&layout=compact&hide_border=true&bg_color=05010F&title_color=A78BFA&text_color=DDD6FE" alt="Top languages" />
-
-<br>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=DemousedX&bg_color=05010F&color=C4B5FD&line=8B5CF6&point=F5F3FF&area=true&area_color=4C1D95&hide_border=true" alt="GitHub activity graph" />
-
-</div>
-
----
-
-## 📬 Open Channel
-
-<div align="center">
-
-<a href="https://demoused.pp.ua"><img src="https://img.shields.io/badge/Website-demoused.pp.ua-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
-<a href="https://t.me/Demoused"><img src="https://img.shields.io/badge/Telegram-@Demoused-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-<a href="https://www.linkedin.com/in/DenysenkoOleksandr"><img src="https://img.shields.io/badge/LinkedIn-Oleksandr_Denysenko-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:demoused@demoused.pp.ua"><img src="https://img.shields.io/badge/Email-demoused@demoused.pp.ua-27272A?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-
-<br><br>
-
-`build · automate · integrate · improve`
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:7C3AED,50:2E1065,100:05010F" alt="Cosmic footer" />
 
