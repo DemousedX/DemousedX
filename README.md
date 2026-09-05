@@ -42,7 +42,7 @@ I manage and build digital projects at the intersection of **web development, AI
 <tr>
 <td width="33%" align="center" valign="top">
 <br>
-<img src="https://cdn.simpleicons.org/googlechrome/A78BFA" width="42" height="42" alt="Web icon">
+<img src="https://api.iconify.design/lucide/globe.svg?color=%23A78BFA&width=44&height=44" width="44" height="44" alt="Web icon">
 <h3>Web</h3>
 Modern websites<br>
 E-commerce<br>
@@ -52,7 +52,7 @@ Technical improvements
 </td>
 <td width="33%" align="center" valign="top">
 <br>
-<img src="https://cdn.simpleicons.org/openai/A78BFA" width="42" height="42" alt="AI icon">
+<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23A78BFA&width=44&height=44" width="44" height="44" alt="AI and automation icon">
 <h3>AI & Automation</h3>
 AI solutions<br>
 Workflow automation<br>
@@ -62,7 +62,7 @@ Internal tools
 </td>
 <td width="33%" align="center" valign="top">
 <br>
-<img src="https://cdn.simpleicons.org/linear/A78BFA" width="42" height="42" alt="Delivery icon">
+<img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%23A78BFA&width=44&height=44" width="44" height="44" alt="Delivery icon">
 <h3>Delivery</h3>
 Project planning<br>
 Technical coordination<br>
